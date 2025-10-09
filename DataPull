@@ -1,0 +1,7 @@
+{
+  "Version": "V2_D18M09Y25",
+  "Author": "LurchiPaaul",
+  "Description": "© LurchShield Anticheat since 2023 - Made by LurchiPaaul",
+  "Webhook_C_ResourceStart": "WEBHOOK_HERE",
+  "Webhook_C_Bans": "WEBHOOK_HERE"
+}
