@@ -2,7 +2,7 @@
   "Resource_Version": "V2_D18M09Y25",
   "Resource_Author": "LurchiPaaul",
   "Resource_Description": "© LurchShield Anticheat since 2023 - Made by LurchiPaaul",
-  "Logo_url": "YOUR_URL",
+  "Resource_Logo": "YOUR_URL",
 
   "Webhook_Description": "© LurchShield Anticheat since 2023 - Made by LurchiPaaul",
   "Webhook_Livebans": "YOUR_WEBHOOK",
