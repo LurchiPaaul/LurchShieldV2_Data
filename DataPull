@@ -1,11 +1,11 @@
 {
-  "Resource_Version": "V2_D13M12Y25",
+  "Resource_Version": "V2_D22M01Y26",
   "Resource_Author": "LurchiPaaul",
   "Resource_Description": "© LurchShield Anticheat since 2023 - Made by LurchiPaaul",
   "Resource_Logo": "https://i.imgur.com/NyNoRLq.png",
 
   "Webhook_Description": "© LurchShield Anticheat since 2023 - Made by LurchiPaaul",
-  "Webhook_Livebans": "https://discord.com/api/webhooks/1463984394938089737/EUaihWVSTsmYqGbD-l3Up-ffpX-LB7Imk9c0tG0JkpAO279ULT_Q3abBpyJ3mfCGIMIq",
+  "Webhook_Livebans": "",
   "Webhook_C_ResourceStart": "https://discord.com/api/webhooks/1447335330167525448/Hgtaa_hg9toWkeT_5dDJHzxSU0yk_fvGO5zQQg3665XVBnW9OqVFdTVFLvPv4cytKPDH",
   "Webhook_C_Bans": "https://discord.com/api/webhooks/1447335180640456776/4I618WErz6Hux6IowEZ1_A7wSatVfY4vlFxgpXz7YjSJT1DnP3vTpnfhJf2uD8JBmyMI"
 }
